@@ -1,0 +1,507 @@
+{
+    "Agriculture, Horticulture, Forestry and Fishery": {
+        "All agriculture, horticulture, forestry and fishery": {},
+        "Agricultural Science": {
+            "All agricultural science": {},
+            "Food Science": {}
+        },
+        "Agriculture and Forestry": {},
+        "Animal Science": {
+            "All animal science": {},
+            "Equine Studies": {}
+        },
+        "Fishery": {},
+        "Forestry": {},
+        "Horticultural Science": {},
+        "Soil Science": {}
+    },
+    "Arts, Design and Media": {
+        "All arts, design and media": {},
+        "Aesthetics": {},
+        "Architecture": {
+            "All architecture": {},
+            "Landscape Architecture": {},
+            "Lighting Design": {}
+        },
+        "Crafts": {},
+        "Creative Writing": {},
+        "Dance Studies": {},
+        "Design": {},
+        "Fashion Studies": {},
+        "Film Studies": {},
+        "Fine Arts": {},
+        "History and Theory of Arts": {},
+        "Media Production": {
+            "All media production": {},
+            "Media Technology": {}
+        },
+        "Music": {},
+        "Musicology": {},
+        "Performing Arts": {
+            "All performing arts": {},
+            "Choreography": {},
+            "Circus": {},
+            "Dance": {},
+            "Directing": {},
+            "Film": {},
+            "Operatic Stagecraft": {},
+            "Performing Arts and Media": {},
+            "Theatre": {}
+        },
+        "Photography": {},
+        "Textile Studies": {},
+        "Theatre History and Theory": {}
+    },
+    "Business Administration and Economics": {
+        "All business administration and economics": {},
+        "Administration and Management": {},
+        "Business Administration": {},
+        "Commercial Law": {},
+        "Economic History": {},
+        "Economics": {},
+        "Entrepreneurship": {},
+        "Finance": {},
+        "Human Resources": {},
+        "Industrial Economics, Organisation and Management": {},
+        "International Business Management": {},
+        "Leadership, Organisation and Management": {},
+        "Management and Financial Accounting": {},
+        "Marketing": {},
+        "Project Management": {}
+    },
+    "Computer Science and Engineering": {
+        "All computer science and engineering": {},
+        "Cognitive Science": {},
+        "Computer Science": {
+            "All computer science": {},
+            "Bioinformatics": {},
+            "Computational Science": {},
+            "Game development": {},
+            "Systems Biology": {}
+        },
+        "Human-Computer Interaction": {},
+        "Information Systems": {
+            "All information systems": {},
+            "Bioinformatics": {},
+            "Computer Linguistics": {},
+            "Health Informatics": {},
+            "Systems Biology": {}
+        },
+        "Information Technology": {
+            "All information technology": {},
+            "Computer Technology": {},
+            "Embedded systems": {},
+            "Robotics": {}
+        }
+    },
+    "Education/Educational Sciences/Didactics": {
+        "All education/educational sciences/didactics": {},
+        "Education": {
+            "All education": {},
+            "Care pedagogics": {},
+            "Special Education": {}
+        },
+        "Educational Sciences/Didactics": {},
+        "Student and Vocational Counselling": {}
+    },
+    "Health and Medical Care": {
+        "All health and medical care": {},
+        "Audiology": {},
+        "Biomedical Laboratory Science": {},
+        "Biomedicine": {
+            "All biomedicine": {},
+            "Neuroscience": {},
+            "Physiology": {}
+        },
+        "Entrepreneurship": {},
+        "Food, Nutrition and Home Economic Studies": {},
+        "Global Health": {},
+        "Health Informatics": {},
+        "Health Service Administration": {},
+        "Health and Medical Service Development": {},
+        "Medical Physics": {},
+        "Medical Technologies": {},
+        "Medical Technology": {},
+        "Medicine": {
+            "All medicine": {},
+            "Neuroscience": {},
+            "Physiology": {}
+        },
+        "Nursing Science and Nursing": {},
+        "Odontology, Dental Technology and Oral Health": {},
+        "Optometry": {},
+        "Pharmacology and Pharmacy": {},
+        "Project Management": {},
+        "Psychology": {},
+        "Psychotherapy": {},
+        "Public Health": {},
+        "Radiation Physics": {},
+        "Radiology": {},
+        "Rehabilitation Science": {
+            "All rehabilitation science": {},
+            "Ergonomics": {},
+            "Occupational Therapy": {},
+            "Physiotherapy": {}
+        },
+        "Reproductive and Perinatal Health": {},
+        "Speech and Language Pathology": {},
+        "Sport Science": {},
+        "Toxicology": {},
+        "Wellness": {}
+    },
+    "Humanities": {
+        "All humanities": {},
+        "Archaeology": {
+            "All archaeology": {},
+            "Osteology": {}
+        },
+        "Area Studies": {
+            "All area studies": {},
+            "African Studies": {},
+            "Asian Studies": {},
+            "Central and Eastern European Studies": {},
+            "European Studies": {},
+            "Latin American Studies": {},
+            "Middle East Studies": {},
+            "Scandinavian Studies": {}
+        },
+        "Classical Archaeology and Ancient History": {},
+        "Cognitive Science": {},
+        "Comparative Literature": {},
+        "Computer Linguistics": {},
+        "Conservation": {},
+        "Creative Writing": {},
+        "Cultural Studies": {
+            "All cultural studies": {},
+            "Museology": {}
+        },
+        "Dance Studies": {},
+        "Ethnology": {},
+        "Fashion Studies": {},
+        "Film Studies": {},
+        "Gender Studies": {},
+        "History": {
+            "All history": {},
+            "Economic History": {},
+            "Egyptology": {},
+            "History of Religions": {},
+            "History of Technology": {},
+            "Media History": {},
+            "Military History": {}
+        },
+        "History and Theory of Arts": {},
+        "History of Science and Ideas": {},
+        "Human Ecology": {},
+        "Linguistics": {},
+        "Musicology": {},
+        "Philosophy and Logic": {
+            "All philosophy and logic": {},
+            "Practical Philosophy": {},
+            "Theoretical Philosophy": {}
+        },
+        "Phonetics": {},
+        "Rhetoric": {},
+        "Textile Studies": {},
+        "Theatre History and Theory": {}
+    },
+    "Journalism, Communication and Information": {
+        "All journalism, communication and information": {},
+        "Archival Science": {},
+        "Journalism": {},
+        "Library and Information Science": {},
+        "Media History": {},
+        "Media and Communications Studies": {},
+        "Strategic Communication": {}
+    },
+    "Languages": {
+        "All languages": {},
+        "Albanian": {},
+        "Arabic": {},
+        "Aramaic and Syrian": {},
+        "Bilingualism": {},
+        "Bosnian, Croatian and Serbian": {},
+        "Bulgarian": {},
+        "Celtic Languages": {},
+        "Chinese": {},
+        "Czech": {},
+        "Danish": {},
+        "Dutch": {},
+        "English": {},
+        "Estonian": {},
+        "Faeroese": {},
+        "Finnish": {},
+        "French": {},
+        "German": {},
+        "Greek": {},
+        "Hebrew": {},
+        "Hindi": {},
+        "Hungarian": {},
+        "Icelandic": {},
+        "Indology and Sanskrit": {},
+        "Indonesian": {},
+        "Iranian Languages": {},
+        "Italian": {},
+        "Japanese": {},
+        "Korean": {},
+        "Kurdish": {},
+        "Latin": {},
+        "Latvian": {},
+        "Lithuanian": {},
+        "Me\u00e4nkieli": {},
+        "Modern Greek": {},
+        "Nordic Languages": {},
+        "Norwegian": {},
+        "Persian": {},
+        "Polish": {},
+        "Portuguese": {},
+        "Romanian": {},
+        "Russian": {},
+        "Sami Languages": {},
+        "Semitic Languages": {},
+        "Sign Language": {},
+        "Spanish": {},
+        "Swahili": {},
+        "Swedish": {
+            "All swedish": {},
+            "Swedish as a Foreign Language": {}
+        },
+        "Tamil Language": {},
+        "Thai": {},
+        "Tibetan": {},
+        "Translation and Interpretation": {},
+        "Turkic Languages": {},
+        "Yiddish": {}
+    },
+    "Law and Legal Studies": {
+        "All law and legal studies": {},
+        "Commercial Law": {}
+    },
+    "Materials, Construction and Manufacturing": {
+        "All materials, construction and manufacturing": {},
+        "Architecture": {
+            "All architecture": {},
+            "Landscape Architecture": {},
+            "Lighting Design": {}
+        },
+        "Building Technology and Civil Engineering": {
+            "All building technology and civil engineering": {},
+            "Building Technology": {},
+            "Civil Engineering": {}
+        },
+        "Civil and Environmental Engineering": {
+            "All civil and environmental engineering": {},
+            "Community Planning": {},
+            "Physical Planning": {},
+            "Surveying and Geographic Information Technology": {}
+        },
+        "Food Science": {},
+        "Materials Technology": {
+            "All materials technology": {},
+            "Nanomaterials": {}
+        },
+        "Mining and Mineral Technology": {},
+        "Textile Technology": {},
+        "Wood Technology": {}
+    },
+    "Mathematics": {
+        "All mathematics": {},
+        "Logic": {},
+        "Mathematical Statistics": {},
+        "Numerical Analysis": {},
+        "Statistics": {}
+    },
+    "Natural Science": {
+        "All natural science": {},
+        "Biology": {
+            "All biology": {},
+            "Bioinformatics": {},
+            "Biomedicine": {},
+            "Biotechnology": {},
+            "Botany": {},
+            "Cell Biology": {},
+            "Conservation Biology": {},
+            "Developmental Biology": {},
+            "Ecology": {},
+            "Evolutionary Biology": {},
+            "Food Science": {},
+            "Gene Technology": {},
+            "Genetics": {},
+            "Immunology": {},
+            "Marine Biology": {},
+            "Medical Biology": {},
+            "Microbiology": {},
+            "Molecular Biology": {},
+            "Physiology": {},
+            "Systems Biology": {},
+            "Toxicology": {},
+            "Zoology": {}
+        },
+        "Chemistry": {
+            "All chemistry": {},
+            "Analytical Chemistry": {},
+            "Biochemistry": {},
+            "Biophysics": {},
+            "Biotechnology": {},
+            "Chemical Physics": {},
+            "Colloid Chemistry": {},
+            "Food Science": {},
+            "Inorganic Chemistry": {},
+            "Marine Chemistry": {},
+            "Materials Chemistry": {},
+            "Medicinal Chemistry": {},
+            "Organic Chemistry": {},
+            "Physical Chemistry": {},
+            "Polymer Chemistry": {},
+            "Protein Chemistry": {},
+            "Quantum Chemistry": {},
+            "Theoretical Chemistry": {}
+        },
+        "Earth Science": {
+            "All earth science": {},
+            "Bedrock Geology": {},
+            "Climatology": {},
+            "Environmental Geology": {},
+            "Geomorphology": {},
+            "Geophysics": {},
+            "Human Geography and Geography": {},
+            "Hydrology": {},
+            "Marine Geology": {},
+            "Oceanography": {},
+            "Palaeontology": {},
+            "Quaternary Geology": {},
+            "Soil Science": {}
+        },
+        "Environmental Science, Care and Protection": {
+            "All environmental science, care and protection": {},
+            "Ecotoxicology": {},
+            "Environmental Techniques and Energy Technology": {},
+            "Soil Science": {}
+        },
+        "Physics": {
+            "All physics": {},
+            "Astronomy": {},
+            "Biophysics": {},
+            "Geophysics": {},
+            "Material Physics": {},
+            "Meteorology": {},
+            "Nuclear Physics": {},
+            "Particle Physics": {},
+            "Radiation Physics": {},
+            "String Theory": {},
+            "Theoretical Physics": {}
+        }
+    },
+    "Religious Studies": {
+        "All religious studies": {},
+        "Diaconal Work": {},
+        "Ethics": {},
+        "Islamology": {},
+        "Jewish Studies": {}
+    },
+    "Social Science and Behavioural Science": {
+        "All social science and behavioural science": {},
+        "Area Studies": {
+            "All area studies": {},
+            "African Studies": {},
+            "Asian Studies": {},
+            "Central and Eastern European Studies": {},
+            "European Studies": {},
+            "Latin American Studies": {},
+            "Middle East Studies": {},
+            "Scandinavian Studies": {}
+        },
+        "Cognitive Science": {},
+        "Development Studies": {},
+        "Disability Studies": {},
+        "Economic History": {},
+        "Entrepreneurship": {},
+        "Gender Studies": {},
+        "General Criminology": {},
+        "Global Studies": {},
+        "Human Ecology": {},
+        "Human Geography and Geography": {},
+        "Human Resources": {},
+        "Human Rights": {},
+        "Intelligence Analysis": {},
+        "Peace and Conflict Studies": {},
+        "Peace and Development Studies": {},
+        "Political Science": {},
+        "Project Management": {},
+        "Psychology": {
+            "All psychology": {},
+            "Social Psychology": {}
+        },
+        "Psychotherapy": {},
+        "Public Administration": {},
+        "Quality Technology": {},
+        "Rural Development": {},
+        "Service Management": {},
+        "Social Anthropology": {},
+        "Social Science": {},
+        "Social Work and Welfare": {},
+        "Sociology": {
+            "All sociology": {},
+            "Social Psychology": {}
+        },
+        "Sociology of Law": {},
+        "Statistics": {},
+        "Strategic Communication": {},
+        "Technology in a Social Perspective": {},
+        "Tourism and Recreation Studies": {},
+        "War Studies": {},
+        "Work Science": {}
+    },
+    "Social Work and Welfare": {
+        "All social work and welfare": {},
+        "Children and Youth Education and Care": {},
+        "Culinary Arts": {},
+        "Hospitality Management": {},
+        "Social Work and Welfare": {},
+        "Student and Vocational Counselling": {}
+    },
+    "Technology": {
+        "All technology": {},
+        "Acoustics": {},
+        "Automation Technology": {
+            "All automation technology": {},
+            "Automatic Control": {}
+        },
+        "Biotechnology": {},
+        "Chemical Engineering": {},
+        "Computer Technology": {},
+        "Electrical Engineering": {
+            "All electrical engineering": {},
+            "Electronics": {},
+            "Signal processing": {}
+        },
+        "Engineering Physics": {
+            "All engineering physics": {},
+            "Fluid Mechanics": {},
+            "Mechanics": {},
+            "Nuclear Power Technology": {},
+            "Solid Mechanics": {}
+        },
+        "Entrepreneurship": {},
+        "Environmental Techniques and Energy Technology": {},
+        "History of Technology": {},
+        "Industrial Economics, Organisation and Management": {},
+        "Information Technology": {},
+        "Innovation Technology": {},
+        "Mechanical Engineering": {
+            "All mechanical engineering": {},
+            "Logistics": {},
+            "Shipping": {},
+            "Vehicle Engineering": {}
+        },
+        "Mechatronics": {},
+        "Media Technology": {},
+        "Medical Technology": {},
+        "Military Technology": {},
+        "Product Development": {},
+        "Project Management": {},
+        "Quality Technology": {},
+        "Space Technology": {},
+        "Technical Design": {}
+    },
+    "Veterinary Medicine and Nursing": {}
+}
